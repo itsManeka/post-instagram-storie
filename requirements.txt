@@ -1,0 +1,4 @@
+moviepy==1.0.3
+Pillow==9.2.0
+instagrapi==1.16.29
+requests==2.28.1
